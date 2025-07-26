@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **23211a0563@bvrit.ac.in**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YqhIcOtwvkCAslXfRPl1xu1cM_dE4q4t/view?usp=drivesdk)
+- 📄 Know about my experiences [View My Full Resume](https://drive.google.com/file/d/1YqhIcOtwvkCAslXfRPl1xu1cM_dE4q4t/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
