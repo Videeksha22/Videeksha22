@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dannaram Videeksha</h1>
-<h3 align="center">Enthusiastic and driven 2nd-year Computer Science student with a passion for problem-solving and building real-world projects. I enjoy learning, exploring new technologies, and creating meaningful digital solutions. Known for adaptability, attention to detail, and a commitment to excellence, I’m eager to grow as a developer while contributing to innovative projects.</h3>
+<h3 align="center">Enthusiastic and driven 3rd-year Computer Science student with a passion for problem-solving and building real-world projects. I enjoy learning, exploring new technologies, and creating meaningful digital solutions. Known for adaptability, attention to detail, and a commitment to excellence, I’m eager to grow as a developer while contributing to innovative projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=videeksha22&label=Profile%20views&color=0e75b6&style=flat" alt="videeksha22" /> </p>
 
